@@ -1,0 +1,7 @@
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\obj\Debug\PartidaJuego.csprojAssemblyReference.cache
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\obj\Debug\PartidaJuego.csproj.CoreCompileInputs.cache
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\bin\Debug\PartidaJuego.exe.config
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\bin\Debug\PartidaJuego.exe
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\bin\Debug\PartidaJuego.pdb
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\obj\Debug\PartidaJuego.exe
+D:\Programacion II - FPotenciar\UNIDAD II\PartidaJuego\obj\Debug\PartidaJuego.pdb
